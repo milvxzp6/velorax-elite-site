@@ -1,6 +1,7 @@
 # VeloraX Elite
 
 واجهة عربية فخمة لموقع تحسين أداء الألعاب مع صفحات متعددة وتجهيز SEO أساسي للنشر على GitHub Pages.
+المشروع مجاني 100% للاستخدام.
 
 ## Live Website
 
@@ -9,6 +10,7 @@
 ## Project Highlights
 
 - تصميم احترافي Dark/Neon مخصص للألعاب.
+- مجاني بالكامل (Free 100%).
 - أكثر من 10 صفحات مترابطة (13 صفحة + صفحة 404).
 - ملفات SEO جاهزة: `sitemap.xml`, `robots.txt`, `site.webmanifest`.
 - صفحة هبوط محسّنة مع structured data لمحركات البحث.
