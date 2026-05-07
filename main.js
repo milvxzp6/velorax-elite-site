@@ -6,3 +6,8 @@ links.forEach((link) => {
     link.classList.add("active");
   }
 });
+
+const yearEl = document.getElementById("year");
+if (yearEl) {
+  yearEl.textContent = new Date().getFullYear().toString();
+}
