@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://velorax-elite.com/sitemap.xml
+Sitemap: https://milvxzp6.github.io/velorax-elite-site/sitemap.xml
